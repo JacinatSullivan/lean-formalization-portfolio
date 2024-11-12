@@ -158,3 +158,4 @@ example : run (fun _ => 0) sample.compile [] = some [14] := rfl
 example : sample.fold = .const 14 := rfl
 
 end StackCompiler
+ 
