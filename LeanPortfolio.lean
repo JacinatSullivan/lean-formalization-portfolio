@@ -3,15 +3,6 @@ import Mathlib
 /-!
 # Lean Formalization Portfolio: Finite Graphs
 
-This file demonstrates basic Lean 4 / Mathlib formalization techniques:
-- defining a mathematical property precisely;
-- expressing assumptions with typeclass parameters;
-- proving a consequence from a definition;
-- keeping the statement and proof explicit and compiler-checkable.
-
-Suggested GitHub repository description:
-"Small, documented Lean 4 and Mathlib examples focused on precise mathematical
-definitions, theorem statements, and compiler-guided verification."
 -/
 
 namespace LeanPortfolio
