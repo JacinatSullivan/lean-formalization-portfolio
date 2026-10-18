@@ -2,14 +2,6 @@ import Mathlib
 
 /-!
 # Lean Formalization Portfolio: Graph Connectivity and Hamiltonian Cycles
-
-This file is a portfolio-style exercise in expressing graph-theoretic concepts
-with Lean 4 and Mathlib. It introduces definitions for spanning subgraphs,
-2-regularity, and a uniquely specified witness.
-
-Important: these are illustrative definitions, not a claim that a major
-open graph-theory result has been proved here. Compile this file in the same
-Lean/Mathlib version used by your project before publishing it.
 -/
 
 namespace GraphFormalizationPortfolio
